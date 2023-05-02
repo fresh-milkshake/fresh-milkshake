@@ -1,34 +1,31 @@
 
 ```asm
 section .data
-    ; Define messages to be printed
     msg1 db 'currently improving Rust and learning Reverse Engineering', 0Ah
-    len1 equ $-msg1 ; Calculate length of msg1
+    len1 equ $-msg1
     msg2 db 'working with languages like C++, Rust, Intel x86 Assembly and more', 0Ah
-    len2 equ $-msg2 ; Calculate length of msg2
+    len2 equ $-msg2
     
 section .text
     global _start
     
 _start:
-    ; Print first message (msg1)
-    mov eax, 4          ; system call for write
-    mov ebx, 1          ; file descriptor 1 (stdout)
-    mov ecx, msg1       ; message to print
-    mov edx, len1       ; length of message
-    int 0x80            ; call kernel
+    mov eax, 4
+    mov ebx, 1        
+    mov ecx, msg1     
+    mov edx, len1    
+    int 0x80         
     
-    ; Print second message (msg2)
-    mov eax, 4          ; system call for write
-    mov ebx, 1          ; file descriptor 1 (stdout)
-    mov ecx, msg2       ; message to print
-    mov edx, len2       ; length of message
-    int 0x80            ; call kernel
+    mov eax, 4 
+    mov ebx, 1        
+    mov ecx, msg2     
+    mov edx, len2      
+    int 0x80       
     
     ; Exit program
-    mov eax, 1          ; system call for exit
-    xor ebx, ebx        ; exit code 0
-    int 0x80            ; call kernel
+    mov eax, 1        
+    xor ebx, ebx    
+    int 0x80          
 ```
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fresh-milkshake&show_icons=true&hide_border=true)
