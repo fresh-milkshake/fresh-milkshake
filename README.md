@@ -22,7 +22,6 @@ _start:
     mov edx, len2      
     int 0x80       
     
-    ; Exit program
     mov eax, 1        
     xor ebx, ebx    
     int 0x80          
