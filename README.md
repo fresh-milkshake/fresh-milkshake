@@ -3,7 +3,7 @@
 section .data
     msg1 db 'currently improving Rust and learning Reverse Engineering', 0Ah
     len1 equ $-msg1
-    msg2 db 'working with languages like C++, Rust, Intel x86 Assembly and more', 0Ah
+    msg2 db 'working with languages like C++, Rust, Intel x86/64 Assembly and more', 0Ah
     len2 equ $-msg2
     
 section .text
