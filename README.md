@@ -27,4 +27,4 @@ _start:
     int 0x80          
 ```
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fresh-milkshake&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fresh-milkshake)
