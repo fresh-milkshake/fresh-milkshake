@@ -22,6 +22,11 @@ _start:
     mov edx, len2      
     int 0x80       
     
+    ; mov al, [cup]
+    ; mov [mouth], al
+    ; syscall drink
+    ; mov [cup], 0
+    
     mov eax, 1        
     xor ebx, ebx    
     int 0x80          
