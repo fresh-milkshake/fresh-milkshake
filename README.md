@@ -22,10 +22,10 @@ _start:
     mov edx, len2      
     int 0x80       
     
-    ; mov al, [cup]
+    ; mov al, [milkshake]
     ; mov [mouth], al
     ; int 0x80
-    ; mov [cup], 0
+    ; mov [milkshake], 0
     
     mov eax, 1        
     xor ebx, ebx    
