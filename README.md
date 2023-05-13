@@ -24,7 +24,7 @@ _start:
     
     ; mov al, [cup]
     ; mov [mouth], al
-    ; syscall drink
+    ; int 0x80
     ; mov [cup], 0
     
     mov eax, 1        
