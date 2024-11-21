@@ -33,3 +33,5 @@ _start:
 ```
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fresh-milkshake&layout=compact)
+![My Skills](https://skillicons.dev/icons?i=cpp,python,rust,figma&theme=light)
+
