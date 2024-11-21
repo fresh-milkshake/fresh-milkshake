@@ -34,5 +34,9 @@ _start:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fresh-milkshake&layout=compact)
 
-![My Skills](https://skillicons.dev/icons?i=cpp,python,rust,figma&theme=light)
+# My skills
+
+![My Skills](https://skillicons.dev/icons?i=cpp,py,rust&theme=light)
+
+![My Skills](https://skillicons.dev/icons?i=fastapi,flask,qt,pytorch,tauri&theme=light)
 
