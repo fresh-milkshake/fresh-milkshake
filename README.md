@@ -5,10 +5,12 @@ I'm a developer with 6 years of experience in commercial and open-source develop
 ### My stack
 
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-009688?style=for-the-badge&logo=qt&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black)
+![Tauri](https://img.shields.io/badge/Tauri-1A1A1A?style=for-the-badge&logo=tauri&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-1C1C1C?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)
