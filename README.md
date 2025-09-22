@@ -4,7 +4,7 @@ Hey there! I'm a developer with 6 years of experience in both commercial and ope
 
 ## Connect with me
 
-```js
+```haskell
 Discord: nuclear_chocolate
 Telegram: @fresh_milkshake
 ```
