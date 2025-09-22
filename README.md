@@ -1,9 +1,12 @@
 ## About me
 
-I'm a developer with 6 years of experience in commercial and open-source development. I've worked on a variety of projects, starting from APCS and embedded systems to web services and SaaS platforms. I also make funny things like this [satirical programming language](https://github.com/fresh-milkshake/gov).
+Hey there! I'm a developer with 6 years of experience in both commercial and open-source shenanigans. My coding journey has taken me everywhere - from wrangling APCS and embedded systems to conjuring up web services and SaaS platforms. Occasionally, I even make silly things like this [satirical programming language](https://github.com/fresh-milkshake/gov) (because why not?).
 
 ## Connect with me
 
-![GitHub](https://img.shields.io/badge/GitHub-fresh_milkshake-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=24292F)
-![Discord](https://img.shields.io/badge/Discord-nuclear__chocolate-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=13152b)
-[![Telegram](https://img.shields.io/badge/Telegram-devplaceholder-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=294153)](https://t.me/devplaceholder)
+```js
+Discord: nuclear_chocolate
+Telegram: @fresh_milkshake
+```
+
+Don't hesitate to [get in touch](https://t.me/fresh_milkshake) - I'm always open to chatting, discussing ideas, or just playing some games.
