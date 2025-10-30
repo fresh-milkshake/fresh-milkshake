@@ -13,4 +13,4 @@ Don't hesitate to [get in touch](https://t.me/fresh_milkshake) - I'm always open
 
 ## Contributions
 
-![github contribution grid snake dark](https://raw.githubusercontent.com/fresh-milkshake/fresh-milkshake/main/github-contribution-grid-snake-dark.svg)
+![github contribution grid snake dark](https://raw.githubusercontent.com/fresh-milkshake/fresh-milkshake/animation/github-contribution-grid-snake.svg)
