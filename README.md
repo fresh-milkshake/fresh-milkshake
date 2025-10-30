@@ -10,3 +10,7 @@ Telegram: @fresh_milkshake
 ```
 
 Don't hesitate to [get in touch](https://t.me/fresh_milkshake) - I'm always open to chatting, discussing ideas, or just playing some games.
+
+## Contributions
+
+![github contribution grid snake dark](https://raw.githubusercontent.com/fresh-milkshake/fresh-milkshake/main/github-contribution-grid-snake-dark.svg)
