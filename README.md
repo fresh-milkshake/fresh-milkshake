@@ -1,6 +1,6 @@
 ## About me
 
-Hey there! I'm a developer with 3+ years of experience in both commercial (3+ y.) and open-source shenanigans. My coding journey has taken me everywhere - from wrangling APCS and embedded systems to conjuring up web services and SaaS platforms. Occasionally, I even make silly things like this [satirical programming language](https://github.com/fresh-milkshake/gov) (because why not?).
+Hey there! I'm a developer with ~6 years of experience in both commercial (3+ y.) and open-source shenanigans. My coding journey has taken me everywhere - from wrangling APCS and embedded systems to conjuring up web services and SaaS platforms. Occasionally, I even make silly things like this [satirical programming language](https://github.com/fresh-milkshake/gov) (because why not?).
 
 ## Connect with me
 
